@@ -1,0 +1,72 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Porter Sans Block
+    Sub family: Block
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Tyler Finck. All rights reserved.
+    Version: Version 1.000
+    Vendor: Tyler Finck
+    Vendor url: shop.tylerfinck.com
+    Designer: Tyler Finck
+    Designer url: www.finck.co
+    Glyph count: 209
+    Character count: 208
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 88
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Porter Sans Block
+    Sub family: Block
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Tyler Finck. All rights reserved.
+    Version: Version 1.000
+    Vendor: Tyler Finck
+    Vendor url: shop.tylerfinck.com
+    Designer: Tyler Finck
+    Designer url: www.finck.co
+    Glyph count: 209
+    Character count: 208
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 88
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

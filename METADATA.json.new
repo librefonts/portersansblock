@@ -1,0 +1,33 @@
+{
+  "name": "Porter Sans Block",
+  "designer": "Tyler Finck",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 55156,
+  "fonts": [
+    {
+      "name": "Porter Sans Block",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PorterSansBlock-Regular.ttf",
+      "postScriptName": "PorterSansBlock",
+      "fullName": "PorterSansBlock",
+      "copyright": "Copyright (c) 2013 by Tyler Finck. All rights reserved."
+    },
+    {
+      "name": "Porter Sans Block",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PorterSansBlock-Block.ttf",
+      "postScriptName": "PorterSansBlock",
+      "fullName": "PorterSansBlock",
+      "copyright": "Copyright (c) 2013 by Tyler Finck. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2013-12-03"
+}
