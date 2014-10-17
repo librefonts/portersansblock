@@ -11,7 +11,8 @@ install:
 - pip install jinja2
 before_script:
 - mkdir -p builds/build
-script: PATH=/home/travis/virtualenv/python2.7.8/bin/:$PATH fontbakery-build.py . 2>&1 | tee -a builds/build/buildlog.txt
+script: PATH=/home/travis/virtualenv/python2.7.8/bin/:$PATH fontbakery-build.py .
+  2>&1 | tee -a builds/build/buildlog.txt
 branches:
   only:
   - master
@@ -22,4 +23,4 @@ after_script:
 - PATH=/home/travis/virtualenv/python2.7.8/bin/:$PATH fontbakery-travis-deploy.py
 env:
   global:
-    secure: jLiOl4HdtAcRBY1n1zRcVgzkShLTMMq5NRRXvHsLpdq4pVakg/6lDWBJcf0FHWzGVmPnEElyEDnYcm2yQq4QBkH3lPxEFWBgmcRnLnQ9+dE6AyyQcMWP3USx9RDopvcKlsfQU/KLtVG6uu+odeh/PWaMVZcF7Wu3FFCtgqGt77A=
+    secure: t0jy7oczdgW2b2k4sAovCNEvDZxnw9zQTZihuYMFaBUVn4anio3q0g0Li+/H0G9sHGAl707etnJzHqZjS2QXrXurwhsOzZeGp8YQ020zb9A4kLNV6fh/WR8M+rkxNcHAjohMMBLbxT/CCdD4Qn30Iw6CdUhjmKsj2WVTK4geMOI=
